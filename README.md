@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-Repository containing Data Science Projects I have worked on. For my Resume, please see https://mdealiaga.github.io/cv/.
+Repository containing Data Science Projects I have worked on. For my Resume, [please click here](https://drive.google.com/file/d/1kuUa6g3ySYXR4uDL_jMKN6vvwdEPDLOF/preview)
 
 ### Data Science in Python
 
