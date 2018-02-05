@@ -1,68 +1,24 @@
-# Data Science Projects I have worked on:
+# Data Science Portfolio
 
-## Machine Learning in Python:
+Repository containing Data Science Projects I have worked on.
 
-Forecasting Cryptocurrency Price Using Twitter Sentiment Analysis
-https://github.com/mdealiaga/DSI-Capstone/blob/master/Capstone-Part-4.ipynb
+### Data Science in Python
 
-Web Scraping for Indeed.com and Predicting Salaries
-https://nbviewer.jupyter.org/github/mdealiaga/Job-Salary-Webscraping-and-Prediction/blob/master/Web%20Scraping%20Job%20Data.ipynb
-
-
-## Machine Learning reports made while At London Business School (Using XLMiner)
-
-Predicting Next Month views for BBC: https://github.com/mdealiaga/Portfolio/blob/master/Data%20Mining%20LBS/Predicting%20Next%20Month%20views%20for%20BBC/Predicting%20Next%20Month%20views%20for%20BBC.pdf
-
-Estimating Lending Club Probability of Default:
-https://github.com/mdealiaga/Portfolio/blob/master/Data%20Mining%20LBS/Estimating%20Lending%20Club%20Probability%20of%20Default/Estimating%20Lending%20Club%20Probability%20of%20Default.pdf
-
-Predicting Risk of Cardiovascular Disease:
-https://github.com/mdealiaga/Portfolio/blob/master/Data%20Mining%20LBS/Predicting%20Risk%20of%20Cardiovascular%20Disease/Predicting%20Risk%20of%20Cardiovascular%20Disease.pdf
-
-## General Computer Science Work (C and Python):
-
-### Harvard's Introduction to Computer Science:
-
-Harvard's CS50 course, which I took on EDx, provided me an introduction to the intellectual enterprises of computer science and the art of programming.
+* [Forecasting Bitcoin Price Using Twitter Sentiment Analysis](https://github.com/mdealiaga/DSI-Capstone/blob/master/Capstone-Part-4.ipynb): A script that collects daily Bitcoin price and Tweets, performs NLP, runs a multivariate time-series model, and outputs the predicted price for the next day. [NLP, AWS EC2, AWS s3, Multivariate Time-Series, APIs]
+* [Web Scraping and Salary Prediction on Indeed.com](https://nbviewer.jupyter.org/github/mdealiaga/Job-Salary-Webscraping-and-Prediction/blob/master/Web%20Scraping%20Job%20Data.ipynb): HTML scraping of salary information on data science jobs in Indeed.com using BeautifulSoup. EDA Data cleaning of raw dataset. Data preparation for classification problem and use of Logistic Regression to predict salaries. [Web Scraping, Machine Learning]
 
 
-Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include C, Python, SQL, and JavaScript plus CSS and HTML.
+### Machine Learning Reports at London Business School (Using XLMiner)
+Before learning to code, while at London Business School I learned how to leverage Machine Learning techniques using XLMiner. Project reports are thus presented in PDF format.
 
+* [Predicting Next Month views for BBC](https://github.com/mdealiaga/Portfolio/blob/master/Data%20Mining%20LBS/Predicting%20Next%20Month%20views%20for%20BBC/Predicting%20Next%20Month%20views%20for%20BBC.pdf) Project assigned by Head of Data Science for BBC - Gabriel Straub. Performed customer segmentation analysis using clustering. Then predicted next month viewer metrics using logistic regression. [Clustering, Logistic Regression]
 
-This Github Repository contains the projects I worked on. I only showcase the most notable project in each week, but more are available in respective folders. Additionally, the full course syllabus can be found here: https://docs.cs50.net/2017/x/syllabus.html
+* [Estimating Lending Club Probability of Default](https://github.com/mdealiaga/Portfolio/blob/master/Data%20Mining%20LBS/Estimating%20Lending%20Club%20Probability%20of%20Default/Estimating%20Lending%20Club%20Probability%20of%20Default.pdf) Project estimating proability of default in a loan dataset. Cleaned data and used a logistic regression to locate bloans with best returns. [Interaction Terms, PCA, Logistic Regression]
 
-#### Week 0: First Programming Assignment
+* [Predicting Risk of Cardiovascular Disease:](https://github.com/mdealiaga/Portfolio/blob/master/Data%20Mining%20LBS/Predicting%20Risk%20of%20Cardiovascular%20Disease/Predicting%20Risk%20of%20Cardiovascular%20Disease.pdf) Model determining whether a patient had cardiovascular disease based on patient data. The project focuses on analysing the trade-off between sensitivity and specificity, based on the costs of a wrong prediction. [Sentitivity Analysis, PCA, Logistic Regression]
 
-Archery Game using Scratch: https://scratch.mit.edu/projects/151832493/
+### Relevant CS Projects
 
-#### Week 1 - Introduction to C
+* [Twitter Sentiment Analysis Tool](https://github.com/mdealiaga/CS50/tree/master/pset6/sentiments) Tool which takes as input a twitter account, scrapes all of its tweets, and returns a distribution of the overall sentiment of the tweets. [Python, Sentiment Analysis]
 
-Mario Pyramid Builder: https://github.com/mdealiaga/CS50/blob/master/pset1/mario.c
-
-#### Week 2 - Arrays - Cryptography
-Message Encrypter using ASCII, modulo operator, and adapting to user input:
-https://github.com/mdealiaga/CS50/blob/master/pset2/vigenere.c
-
-#### Week 3 - Algorithms
-
-Built puzzle game which implements searching algorithms: https://github.com/mdealiaga/CS50/tree/master/pset3/fifteen
-
-#### Week 4 - Memory - Forensics
-
-Built a JPEG recovery script for faulty memory cards:
-https://github.com/mdealiaga/CS50/blob/master/pset4/recover/recover.c
-
-#### Week 5 - Data Structures
-Built a spell-checker using tries: https://github.com/mdealiaga/CS50/tree/master/pset5/speller
-
-#### Week 6 - HTTP
-Learned about IP, TCP, HTTP, as well as HTML and CSS (No assignments)
-
-#### Week 7 - Machine Learning
-Introduction to Machine learning (No assignemnts).
-
-#### Week 8 - Python Sentiment Analysis
-Built a Twitter Sentiment Analysis tool: https://github.com/mdealiaga/CS50/tree/master/pset6/sentiments
-
-#### Week 9 - SQL
-Built a mock stock-trading website using SQL, Python and Flask: https://github.com/mdealiaga/CS50/tree/master/pset7/finance
+* [Mock Stock-trading Website](https://github.com/mdealiaga/CS50/tree/master/pset7/finance) Created a SQL database and flask-run website which together allow users to register, buy, and sell stocks with fake money. [SQL, Python, Flask]
