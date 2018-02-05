@@ -1,15 +1,15 @@
 # Data Science Portfolio
 
-Repository containing Data Science Projects I have worked on.
+Repository containing Data Science Projects I have worked on. For my Resume, please see https://mdealiaga.github.io/cv/.
 
 ### Data Science in Python
 
 * [Forecasting Bitcoin Price Using Twitter Sentiment Analysis](https://github.com/mdealiaga/DSI-Capstone/blob/master/Capstone-Part-4.ipynb): A script that collects daily Bitcoin price and Tweets, performs NLP, runs a multivariate time-series model, and outputs the predicted price for the next day. [NLP, AWS EC2, AWS s3, Multivariate Time-Series, APIs]
 * [Web Scraping and Salary Prediction on Indeed.com](https://nbviewer.jupyter.org/github/mdealiaga/Job-Salary-Webscraping-and-Prediction/blob/master/Web%20Scraping%20Job%20Data.ipynb): HTML scraping of salary information on data science jobs in Indeed.com using BeautifulSoup. EDA Data cleaning of raw dataset. Data preparation for classification problem and use of Logistic Regression to predict salaries. [Web Scraping, Machine Learning]
 
-
+Tools: scikit-learn, Textblob, Pandas, Seaborn, Matplotlib,
 ### Machine Learning Reports at London Business School (Using XLMiner)
-Before learning to code, while at London Business School I learned how to leverage Machine Learning techniques using XLMiner. Project reports are thus presented in PDF format.
+Before learning to code, while at London Business School, I learned how to leverage Machine Learning techniques using XLMiner. Project reports are presented in PDF format.
 
 * [Predicting Next Month views for BBC](https://github.com/mdealiaga/Portfolio/blob/master/Data%20Mining%20LBS/Predicting%20Next%20Month%20views%20for%20BBC/Predicting%20Next%20Month%20views%20for%20BBC.pdf) Project assigned by Head of Data Science for BBC - Gabriel Straub. Performed customer segmentation analysis using clustering. Then predicted next month viewer metrics using logistic regression. [Clustering, Logistic Regression]
 
@@ -19,6 +19,6 @@ Before learning to code, while at London Business School I learned how to levera
 
 ### Relevant CS Projects
 
-* [Twitter Sentiment Analysis Tool](https://github.com/mdealiaga/CS50/tree/master/pset6/sentiments) Tool which takes as input a twitter account, scrapes all of its tweets, and returns a distribution of the overall sentiment of the tweets. [Python, Sentiment Analysis]
+* [Twitter Sentiment Analysis Tool](https://github.com/mdealiaga/CS50/tree/master/pset6-python-sentiment-analysis/sentiments) Tool which takes as input a twitter account, scrapes all of its tweets, and returns a distribution of the overall sentiment of the tweets. [Python, Sentiment Analysis]
 
-* [Mock Stock-trading Website](https://github.com/mdealiaga/CS50/tree/master/pset7/finance) Created a SQL database and flask-run website which together allow users to register, buy, and sell stocks with fake money. [SQL, Python, Flask]
+* [Mock Stock-trading Website](https://github.com/mdealiaga/CS50/tree/master/pset7-sql-finance/finance) Created a SQL database and flask-run website which together allow users to register, buy, and sell stocks with play money. [SQL, Python, Flask]
