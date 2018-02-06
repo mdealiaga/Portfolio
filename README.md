@@ -5,12 +5,14 @@ Repository containing Data Science Projects I have worked on. For my Resume, [pl
 ### Data Science Projects in Python
 
 * [Forecasting Bitcoin Price Using Twitter Sentiment Analysis:](https://github.com/mdealiaga/DSI-Capstone/blob/master/Capstone-Part-4.ipynb) A script that collects daily Bitcoin price and Tweets, performs NLP, runs a multivariate time-series model, and outputs the predicted price for the next day. [NLP, AWS EC2, AWS s3, Multivariate Time-Series, APIs]
+
 * [Web Scraping and Salary Prediction on Indeed.com:](https://nbviewer.jupyter.org/github/mdealiaga/Job-Salary-Webscraping-and-Prediction/blob/master/Web%20Scraping%20Job%20Data.ipynb) HTML scraping of salary information on data science jobs in Indeed.com using BeautifulSoup. EDA Data cleaning of raw dataset. Data preparation for classification problem and use of Logistic Regression to predict salaries. [Web Scraping, Machine Learning]
 
 ### Machine Learning Microprojects in Python
+
 * [Visualizing Classification and Regression Trees with Admissions Data:](https://github.com/mdealiaga/Portfolio/blob/master/DSI-Projects/CART-Report/CART-Report.ipynb) Using admissions data, I build Classification and Regression Trees (CARTs), look at how they work visually, and compare their performance to more standard, parametric models. [Decision Trees, CART Visualisation, Gridsearch]
 
-* [Evaluating Support Vector Machines on Breast Cancer Dataset:](https://github.com/mdealiaga/Portfolio/blob/master/DSI-Projects/SVM-Report/SVM-Report.ipynb) A breast cancer dataset is explored using Support Vector Machine (SVM) classifiers. Results are compared to logistic regression and kNN classifiers.  The goal is to better understand SVM models, and its relative benefits when compared to other machine learning methods.
+* [Evaluating Support Vector Machines on Breast Cancer Dataset:](https://github.com/mdealiaga/Portfolio/blob/master/DSI-Projects/SVM-Report/SVM-Report.ipynb) A breast cancer dataset is explored using Support Vector Machine (SVM) classifiers. Results are compared to logistic regression and kNN classifiers.  The goal is to better understand SVM models, and its relative benefits when compared to other machine learning methods. [Support Vector Machines]
 
 ### Machine Learning Reports at London Business School (Using XLMiner)
 Before learning to code, while at London Business School, I learned how to leverage Machine Learning techniques using XLMiner. Project reports are presented in PDF format.
