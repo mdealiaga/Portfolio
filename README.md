@@ -14,7 +14,7 @@ Repository containing Data Science Projects I have worked on. For my Resume, [pl
 
 * [Evaluating Support Vector Machines on Breast Cancer Dataset:](https://github.com/mdealiaga/Portfolio/blob/master/DSI-Projects/SVM-Report/SVM-Report.ipynb) A breast cancer dataset is explored using Support Vector Machine (SVM) classifiers. Results are compared to logistic regression and kNN classifiers.  The goal is to better understand SVM models, and its relative benefits when compared to other machine learning methods. [Support Vector Machines]
 
-### Machine Learning Reports at London Business School (Using XLMiner)
+### Machine Learning Reports at London Business School
 Before learning to code, while at London Business School, I learned how to leverage Machine Learning techniques using XLMiner. Project reports are presented in PDF format.
 
 * [Predicting Next Month views for BBC:](https://github.com/mdealiaga/Portfolio/blob/master/Data%20Mining%20LBS/Predicting%20Next%20Month%20views%20for%20BBC/Predicting%20Next%20Month%20views%20for%20BBC.pdf) Project assigned by Head of Data Science for BBC - Gabriel Straub. Performed customer segmentation analysis using clustering. Then predicted next month viewer metrics using logistic regression. [Clustering, Logistic Regression]
