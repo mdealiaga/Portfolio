@@ -14,7 +14,7 @@ Repository containing Data Science Projects I have worked on. For my Resume, [pl
 
 * [Evaluating Support Vector Machines on Breast Cancer Dataset:](https://github.com/mdealiaga/Portfolio/blob/master/DSI-Projects/SVM-Report/SVM-Report.ipynb) A breast cancer dataset is explored using Support Vector Machine (SVM) classifiers. Results are compared to logistic regression and kNN classifiers.  The goal is to better understand SVM models, and its relative benefits when compared to other machine learning methods. [Support Vector Machines]
 
-* [Evaluating K-Means Clusters with the Iris Dataset:](https://github.com/mdealiaga/Portfolio/blob/master/DSI-Projects/K-Means-Clustering-Report/cluster-evaluation-iris-Copy1.ipynb) The aim of this project is to see if it is possible to decipher the number of species the Iris dataset has through use of K-Means clustering.
+* [Evaluating K-Means Clusters with the Iris Dataset:](https://github.com/mdealiaga/Portfolio/blob/master/DSI-Projects/K-Means-Clustering-Report/cluster-evaluation-iris-Copy1.ipynb) The aim of this project is to see if it is possible to decipher the number of species the Iris dataset has through use of K-Means clustering. [K-Means Clustering, Model Evaluation]
 
 ### Machine Learning Reports at London Business School
 Before learning to code, while at London Business School, I learned how to leverage Machine Learning techniques using XLMiner. Project reports are presented in PDF format.
