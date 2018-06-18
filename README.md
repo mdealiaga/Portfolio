@@ -2,6 +2,14 @@
 
 Repository containing Data Science Projects I have worked on.
 
+### TokenAnalyst Internship Work
+
+* [Exploring Ethereum](https://github.com/mdealiaga/Portfolio/blob/master/TokenAnalyst/ETH_report.pdf) A report exploring on-chain Ethereum Metrics and analysing token activity
+
+* [Classifying Ethereum users using blockchain data](https://medium.com/tokenanalyst/classifying-ethereum-users-using-blockchain-data-dd6edb867de3) A data-driven examination of the largest addresses in Ethereum. Read by 4000+ people, nominated as post of the week in two newsletters and translated to French.
+
+* [Deep Diving into Ethereum Mining Pools](https://medium.com/tokenanalyst/deep-diving-into-ethereum-mining-pools-1d51848223b7) An examination of current PoW mining centralisation, Casper’s PoS implications, and beyond.
+
 ### Data Science Projects in Python
 
 * [Forecasting Bitcoin Price Using Twitter Sentiment Analysis:](https://github.com/mdealiaga/DSI-Capstone/blob/master/Capstone-Part-4.ipynb) A script that collects daily Bitcoin price and Tweets, performs NLP, runs a multivariate time-series model, and outputs the predicted price for the next day. [NLP, AWS EC2, AWS s3, Multivariate Time-Series, APIs]
