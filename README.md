@@ -38,6 +38,9 @@ Before learning to code, while at London Business School, I learned how to lever
 * [Predicting Risk of Cardiovascular Disease:](https://github.com/mdealiaga/Portfolio/blob/master/Data%20Mining%20LBS/Predicting%20Risk%20of%20Cardiovascular%20Disease/Predicting%20Risk%20of%20Cardiovascular%20Disease.pdf) Model determining whether a patient had cardiovascular disease based on patient data. The project focuses on analysing the trade-off between sensitivity and specificity, based on the costs of a wrong prediction. [Sentitivity Analysis, PCA, Logistic Regression]
 
 ### Relevant CS Projects
+While Data Science is my principal passion, my interest in computer science extends beyond data science tools. I enjoy experimenting with game development, web design, and even learning more about CS algorithms.
+
+Below are two projects that showcase a combination of Data Science and Web Development skills.
 
 * [Twitter Sentiment Analysis Tool:](https://github.com/mdealiaga/CS50/tree/master/pset6-python-sentiment-analysis/sentiments) Tool which takes as input a twitter account, scrapes all of its tweets, and returns a distribution of the overall sentiment of the tweets. [Python, Sentiment Analysis]
 
