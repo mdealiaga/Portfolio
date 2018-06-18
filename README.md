@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-Repository containing Data Science Projects I have worked on. For my Resume, [please click here.](https://drive.google.com/file/d/1kuUa6g3ySYXR4uDL_jMKN6vvwdEPDLOF/preview)
+Repository containing Data Science Projects I have worked on.
 
 ### Data Science Projects in Python
 
