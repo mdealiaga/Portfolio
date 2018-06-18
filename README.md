@@ -4,6 +4,10 @@ Repository containing Data Science Projects I have worked on.
 
 ### TokenAnalyst Internship Work
 
+A large portion of my internship was devoted to data engineering work - setting the data collection processes that allowed for data science work. Below is the outcome of this work -- in-depth analytics enabled through our data.
+
+While other sections of my portfolio display my coding and modelling ability, this section is more focused on my visualisation and reporting skills.
+
 * [Exploring Ethereum:](https://github.com/mdealiaga/Portfolio/blob/master/TokenAnalyst/ETH_report.pdf) A report exploring on-chain Ethereum Metrics and analysing token activity
 
 * [Classifying Ethereum users using blockchain data:](https://medium.com/tokenanalyst/classifying-ethereum-users-using-blockchain-data-dd6edb867de3) A data-driven examination of the largest addresses in Ethereum. Read by 4000+ people, nominated as post of the week in two newsletters and translated to French.
