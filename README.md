@@ -2,7 +2,7 @@
 
 Repository containing Data Science Projects I have worked on.
 
-### TokenAnalyst Internship Work
+### TokenAnalyst
 
 A large portion of my internship was devoted to data engineering work, building the data collection processes that allowed for data science work. Below is the outcome of this work--in-depth analytics enabled through our data.
 
